@@ -1,31 +1,23 @@
-Name of the Student:
-Learning Track:
-Project Name:
-Trailhead Profile:
-Developer org user name:
-Developer org Password:
-Position:
+Name of the Student:ARLA HARSHAVARDHAN
+Learning Track:Developer
+Project Name:Retail-Management-Application-Using-Salesforce---DEV
+Trailhead Profile:https://www.salesforce.com/trailblazer/harshavardhanarla
+Developer org user name:arlaharshavardhan93@gdcproject.com
+Developer org Password:Gayatri@123
+Position:Team Leader
 
-Name of the Student:
-Learning Track:
-Project Name:
-Trailhead Profile:
-Developer org user name:
-Developer org Password:
-Position:
+Name of the Student:Sanjeevigari Vamsi
+Learning Track:Developer
+Project Name:Retail-Management-Application-Using-Salesforce---DEV
+Trailhead Profile:https://www.salesforce.com/trailblazer/sanjeevigarivamsi
+Developer org user name:vamsi@gdcproject.com
+Developer org Password:Sireesha@12345
+Position:Team member
 
-Name of the Student:
-Learning Track:
-Project Name:
-Trailhead Profile:
-Developer org user name:
-Developer org Password:
-Position:
-
-Name of the Student:
-Learning Track:
-Project Name:
-Trailhead Profile:
-Developer org user name:
-Developer org Password:
-Position:
+Name of the Student:Shaik Abubakarsiddiq
+Learning Track:Developer
+Project Name:Retail-Management-Application-Using-Salesforce---DEV
+Trailhead Profile:https://www.salesforce.com/trailblazer/shaikabubakarsiddiq2035
+Developer org user name:shaikabubakarsiddiq658@gdcproject.com
+Developer org Password:Gayatri@12345
+Position:Team member
